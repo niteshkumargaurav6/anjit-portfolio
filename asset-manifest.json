@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anjit-portfolio/static/css/main.20e61d80.css",
+    "main.js": "/anjit-portfolio/static/js/main.46bacfdc.js",
+    "static/js/453.1801fedd.chunk.js": "/anjit-portfolio/static/js/453.1801fedd.chunk.js",
+    "index.html": "/anjit-portfolio/index.html",
+    "main.20e61d80.css.map": "/anjit-portfolio/static/css/main.20e61d80.css.map",
+    "main.46bacfdc.js.map": "/anjit-portfolio/static/js/main.46bacfdc.js.map",
+    "453.1801fedd.chunk.js.map": "/anjit-portfolio/static/js/453.1801fedd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20e61d80.css",
+    "static/js/main.46bacfdc.js"
+  ]
+}
