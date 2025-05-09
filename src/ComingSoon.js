@@ -3,7 +3,7 @@ import "./ComingSoon.css";
 
 const ComingSoon = () => {
   // Set your target date here
-  const targetDate = new Date("2025-12-31T23:59:59").getTime();
+  const targetDate = new Date("2027-12-31T23:59:59").getTime();
 
   // Function to calculate time left until the target date
   const calculateTimeLeft = useCallback(() => {
